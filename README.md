@@ -23,6 +23,6 @@ Sencillo verdad? Pero supongo que tenes muchas dudas y a continuación te ayudo 
 
 <h1> Parece mágico... pero te preguntarás ¿Qué necesito para jugar? </h1>
 
- Para emoezar descarga el proyecto, no necesitas de ninguna otra app, solo tener un navegador que te permita entrar al enlace y listo, anota a todos tus amigos en la lista y descubri a tu Amigo Secreto! 
+ Para emoezar descarga el proyecto, no necesitas de ninguna otra app, solo tener un navegador que te permita entrar al enlace que se encuentra en el archivo de descarga y listo, anota a todos tus amigos en la lista y descubri a tu Amigo Secreto! 
  
  <img width="1880" height="802" alt="Captura de pantalla 2025-09-18 160807" src="https://github.com/user-attachments/assets/d96c9c57-51c0-44cd-9732-7ed733ac4f42" />
